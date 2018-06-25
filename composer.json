@@ -1,0 +1,16 @@
+{
+    "name": "floryche/florychemvc",
+    "description": "SamaneMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "marifloframework",
+            "email": "floryche@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
